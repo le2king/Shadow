@@ -1,0 +1,5 @@
+# NAME: NRC
+# 洛克王国
+DOMAIN-SUFFIX,nrc.qq.com
+DOMAIN-SUFFIX,prod-http-01.nrc.qq.com
+DOMAIN-SUFFIX,config.nrc.qq.com
